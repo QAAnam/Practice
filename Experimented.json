@@ -1,0 +1,104 @@
+{"id": "608",
+            "englishName": "Beverages",
+            "arabicName": "المشروبات",
+            "sortOrder": 7,
+            "items": [
+
+                {
+                    "id": "S:9|P:-1|T:CON",
+                    "englishName": "Pepsi",
+                    "arabicName": "بيبسي",
+                    "englishDescription": "Pepsi",
+                    "arabicDescription": "بيبسي",
+                    "price": 0,
+                    "isAvailable": true,
+                    "sortOrder": 5,
+                    "availableFrom": "00:00",
+                    "availableTo": "00:00",
+                    "availableDays": "0,1,2,3,4,5,6",
+                    "branchesAvailability": [],
+                    "imageURL": "https://hrdprodcmsimages.azureedge.net/hrdprodcmsimages/uae/imagestemp/9.png",
+                    "thumbnail": "https://hrdprodcmsimages.azureedge.net/hrdprodcmsimages/uae/imagestemp/9.png",
+                    "choiceCategories": [
+                        {
+                            "id": "87be7a0c-30f9-441c-961d-c404adf61575",
+                            "englishName": "Size",
+                            "arabicName": "Size",
+                            "minimumSelections": 1,
+                            "maximumSelections": 1,
+                            "sortOrder": 0,
+                            "choices": [
+                                {
+                                    "id": "S:600001|M:0",
+                                    "englishName": "Pepsi Medium",
+                                    "arabicName": "بيبسي متوسط",
+                                    "price": 11,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": []
+                                },
+                                {
+                                    "id": "S:600004|M:0",
+                                    "englishName": "Pepsi Large",
+                                    "arabicName": "بيبسي  كبير",
+                                    "price": 12,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "S:10|P:-1|T:CON",
+                    "englishName": "Pepsi Black",
+                    "arabicName": "بيبسى بلاك",
+                    "englishDescription": "Diet Pepsi",
+                    "arabicDescription": "دايت بيبسي",
+                    "price": 0,
+                    "isAvailable": true,
+                    "sortOrder": 6,
+                    "availableFrom": "00:00",
+                    "availableTo": "00:00",
+                    "availableDays": "0,1,2,3,4,5,6",
+                    "branchesAvailability": [],
+                    "imageURL": "https://hrdprodcmsimages.azureedge.net/hrdprodcmsimages/uae/imagestemp/10.png",
+                    "thumbnail": "https://hrdprodcmsimages.azureedge.net/hrdprodcmsimages/uae/imagestemp/10.png",
+                    "choiceCategories": [
+                        {
+                            "id": "c136f624-8828-4f81-85f5-c8cbc50a3e3a",
+                            "englishName": "Size",
+                            "arabicName": "Size",
+                            "minimumSelections": 1,
+                            "maximumSelections": 1,
+                            "sortOrder": 0,
+                            "choices": [
+                                {
+                                    "id": "S:600006|M:0",
+                                    "englishName": "Pepsi Black Medium",
+                                    "arabicName": "بيبسى بلاك متوسط",
+                                    "price": 11,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": []
+                                },
+                                {
+                                    "id": "S:600007|M:0",
+                                    "englishName": "Pepsi Black Large",
+                                    "arabicName": "بيبسى بلاك كبير",
+                                    "price": 12,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+                ]
+}

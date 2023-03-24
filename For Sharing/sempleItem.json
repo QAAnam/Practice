@@ -1,0 +1,215 @@
+{
+  "delivery": {
+    "address": {
+      "line1": "",
+      "line2": "",
+      "line3": "",
+      "line4": "",
+      "line5": "",
+      "street": "34th Street",
+      "number": "12",
+      "room": "",
+      "flatNumber": "123",
+      "building": "",
+      "intercom": "",
+      "entrance": "",
+      "structure": "",
+      "floor": "1",
+      "district": "",
+      "other": "",
+      "city": "Sharjah",
+      "postcode": ",",
+      "company": "",
+      "deliveryMainArea": "123,test3123",
+      "deliveryMainAreaPostcode": "",
+      "deliveryArea": "",
+      "deliveryAreaPostcode": ",",
+      "deliveryInstructions": "Other, 123",
+      "latitude": 25.337529,
+      "longitude": 55.396403
+    },
+    "expressDelivery": false,
+    "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+    "riderPickupTime": null
+  },
+  "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+  "code": "191568",
+  "comments": {
+    "customerComment": null,
+    "vendorComment": ""
+  },
+  "createdAt": "2023-03-17T10:37:40.401Z",
+  "customer": {
+    "code": "3220616",
+    "mobilePhone": "+971512345678",
+    "firstName": "[PRT] Test",
+    "lastName": "Test",
+    "email": "",
+    "mobilePhoneCountryCode": ""
+  },
+  "discounts": [
+    
+  ],
+  "expeditionType": "delivery",
+  "expiryDate": "2023-03-17T10:52:40.397Z",
+  "localInfo": {
+    "platform": "TALABAT",
+    "platformKey": "TB",
+    "countryCode": "AE",
+    "currencySymbol": "AED",
+    "currencySymbolPosition": "",
+    "currencySymbolSpaces": "",
+    "decimalSeparator": ".",
+    "decimalDigits": "",
+    "thousandsSeparator": "",
+    "website": "",
+    "email": "",
+    "phone": ""
+  },
+  "payment": {
+    "type": "CASH",
+    "remoteCode": "CASH",
+    "status": "pending",
+    "requiredMoneyChange": "",
+    "vatName": "",
+    "vatId": ""
+  },
+  "test": false,
+  "shortCode": "1143",
+  "preOrder": "false",
+  "platformRestaurant": {
+    "id": "10799"
+  },
+  "price": {
+    "minimumDeliveryValue": "",
+    "comission": "",
+    "deliveryFee": "9",
+    "deliveryFees": [
+      {
+        "name": "Delivery Fee",
+        "value": "9"
+      }
+    ],
+    "containerCharge": "",
+    "deliveryFeeDiscount": "",
+    "serviceFeePercent": "",
+    "serviceFeeTotal": "",
+    "serviceTax": "0",
+    "serviceTaxValue": "0",
+    "subTotal": "40",
+    "totalNet": "40",
+    "vatVisible": "true",
+    "vatPercent": "0",
+    "vatTotal": "0",
+    "grandTotal": "49",
+    "discountAmountTotal": "0",
+    "differenceToMinimumDeliveryValue": "",
+    "payRestaurant": "0",
+    "riderTip": "0"
+  },
+  "products": [
+    {
+      "id": "204446536",
+      "remoteCode": "S:600003|P:-1|T:SMP",
+      "name": "Pepsi - Medium",
+      "description": "",
+      "comment": "",
+      "categoryName": null,
+      "variation": {
+        "name": "Pepsi - Medium"
+      },
+      "unitPrice": "10",
+      "paidPrice": "10",
+      "discountAmount": "",
+      "quantity": "1",
+      "halfHalf": false,
+      "vatPercentage": "",
+      "selectedChoices": [
+        
+      ],
+      "selectedToppings": [
+        
+      ]
+    },
+    {
+      "id": "204446537",
+      "remoteCode": "S:600006|P:-1|T:SMP",
+      "name": "Diet Pepsi - Medium",
+      "description": "",
+      "comment": "",
+      "categoryName": null,
+      "variation": {
+        "name": "Diet Pepsi - Medium"
+      },
+      "unitPrice": "10",
+      "paidPrice": "10",
+      "discountAmount": "",
+      "quantity": "1",
+      "halfHalf": false,
+      "vatPercentage": "",
+      "selectedChoices": [
+        
+      ],
+      "selectedToppings": [
+        
+      ]
+    },
+    {
+      "id": "204446538",
+      "remoteCode": "S:600009|P:-1|T:SMP",
+      "name": "Mirinda - Medium",
+      "description": "",
+      "comment": "",
+      "categoryName": null,
+      "variation": {
+        "name": "Mirinda - Medium"
+      },
+      "unitPrice": "10",
+      "paidPrice": "10",
+      "discountAmount": "",
+      "quantity": "1",
+      "halfHalf": false,
+      "vatPercentage": "",
+      "selectedChoices": [
+        
+      ],
+      "selectedToppings": [
+        
+      ]
+    },
+    {
+      "id": "204446539",
+      "remoteCode": "S:600013|P:-1|T:SMP",
+      "name": "Mountain Dew - Medium",
+      "description": "",
+      "comment": "",
+      "categoryName": null,
+      "variation": {
+        "name": "Mountain Dew - Medium"
+      },
+      "unitPrice": "10",
+      "paidPrice": "10",
+      "discountAmount": "",
+      "quantity": "1",
+      "halfHalf": false,
+      "vatPercentage": "",
+      "selectedChoices": [
+        
+      ],
+      "selectedToppings": [
+        
+      ]
+    }
+  ],
+  "corporateOrder": false,
+  "mobileOrder": true,
+  "webOrder": false,
+  "vouchers": [
+    
+  ],
+  "corporateTaxId": "",
+  "extraParameters": {
+    "chainId": "5482"
+  },
+  "__v": 0
+}

@@ -1,0 +1,41 @@
+{
+    "customerId": 656496,
+    "addressId": 812184,
+    "storeId": 157,
+    "conceptId": 3,
+    "isPaidOnline": false,
+    "menutemplateId": 6,
+    "menuId": 6,
+    "countryId": "5",
+    "areaId": 337,
+    "districtId": -1,
+    "orderMode": 1,
+    "serviceCharge": 0.525,
+    "subTotal": 4.74,
+    "grossTotal": 5.265,
+    "total": 5.265,
+    "salesAmount": 4.74,
+    "taxAmount": 0.0,
+    "orderType": 0,
+    "dueTime": "2021-05-27T09:59:58.688Z",
+    "paymentMethod": "Cash",
+    "isSuspended": false,
+    "itemDetails": [],
+
+    "paymentDetails": [
+        {
+            "type": 1,
+            "pay_Subtype": 1,
+            "amount": 5.265,
+            "tenderId": 7
+        }
+    ],
+    "noteDetails": [
+        {
+            "noteGroupId": 35,
+            "text": "11134222",
+            "mandatory": 1
+        }
+    ],
+    "compDetails": []
+}

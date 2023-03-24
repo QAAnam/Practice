@@ -1,0 +1,14 @@
+{
+  "itemDetails": [
+    {
+      "name": "Pepsi Medium",
+      "itemId": 600003.0,
+      "itemType": 0,
+      "price": 0.79,
+      "modeCode": "NONE",
+      "level": 0,
+      "orderMode": 1,
+      "item-modifiers": []
+    }
+  ]
+}

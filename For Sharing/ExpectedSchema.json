@@ -1,0 +1,19 @@
+{
+  "type": "object",
+  "properties": {
+    "remoteResponse": {
+      "type": "object",
+      "properties": {
+        "remoteOrderId": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "remoteOrderId"
+      ]
+    }
+  },
+  "required": [
+    "remoteResponse"
+  ]
+}

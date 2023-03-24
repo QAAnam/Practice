@@ -1,0 +1,5644 @@
+[
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "2",
+            "totalNet": "2",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "11.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "-2732547605602554844",
+                "remoteCode": "S:810052|P:-1|T:SMP",
+                "name": "Super Charger Sauce",
+                "description": "",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Super Charger Sauce"
+                },
+                "unitPrice": "2",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": []
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "11.0",
+            "totalNet": "11.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "20.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "-7492221757065266985",
+                "remoteCode": "S:7|P:-1|T:CON",
+                "name": "Mountain Dew",
+                "description": "Soft Drink",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Mountain Dew"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "5598714796327442655",
+                        "remoteCode": "S:600013|M:0",
+                        "name": "Mountain Dew Medium",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "11",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "12.0",
+            "totalNet": "12.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "21.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "-7492221757065266985",
+                "remoteCode": "S:7|P:-1|T:CON",
+                "name": "Mountain Dew",
+                "description": "Soft Drink",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Mountain Dew"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "4205596459748275312",
+                        "remoteCode": "S:600014|M:0",
+                        "name": "Mountain Dew Large",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "12",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "11.0",
+            "totalNet": "11.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "20.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "2826280477367713314",
+                "remoteCode": "S:5|P:-1|T:CON",
+                "name": "Diet Pepsi",
+                "description": "Soft Drink",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Diet Pepsi"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "7096711443279530381",
+                        "remoteCode": "S:600006|M:0",
+                        "name": "Diet Pepsi Medium",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "11",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "12.0",
+            "totalNet": "12.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "21.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "2826280477367713314",
+                "remoteCode": "S:5|P:-1|T:CON",
+                "name": "Diet Pepsi",
+                "description": "Soft Drink",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Diet Pepsi"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "850604076775533898",
+                        "remoteCode": "S:600007|M:0",
+                        "name": "Diet Pepsi Large",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "12",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "9",
+            "totalNet": "9",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "18.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "2321346095086051508",
+                "remoteCode": "S:510092|P:-1|T:SMP",
+                "name": "3 Pc Jalapeno Cheesy Bites",
+                "description": "",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "3 Pc Jalapeno Cheesy Bites"
+                },
+                "unitPrice": "9",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": []
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "20",
+            "totalNet": "20",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "29.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "-8157180825890834591",
+                "remoteCode": "S:510074|P:-1|T:SMP",
+                "name": "Family Dipper Fries + 3 Dips",
+                "description": "",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Family Dipper Fries + 3 Dips"
+                },
+                "unitPrice": "20",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": []
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "11.0",
+            "totalNet": "11.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "20.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "-6584514656091233006",
+                "remoteCode": "S:1|P:-1|T:CON",
+                "name": "Pepsi",
+                "description": "Soft Drink",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Pepsi"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "-8783186582991227695",
+                        "remoteCode": "S:600003|M:0",
+                        "name": "Pepsi Medium",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "11",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "12.0",
+            "totalNet": "12.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "21.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "-6584514656091233006",
+                "remoteCode": "S:1|P:-1|T:CON",
+                "name": "Pepsi",
+                "description": "Soft Drink",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Pepsi"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "7232683327852532753",
+                        "remoteCode": "S:600004|M:0",
+                        "name": "Pepsi Large",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "12",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "11.0",
+            "totalNet": "11.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "20.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "-271293114919819251",
+                "remoteCode": "S:5000275|P:-1|T:CON",
+                "name": "Pepsi Black No Sugar",
+                "description": "",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Pepsi Black No Sugar"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "-8625223979050435863",
+                        "remoteCode": "S:610073|M:0",
+                        "name": "Medium Pepsi Black No Sugar",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "11",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "12.0",
+            "totalNet": "12.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "21.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "-271293114919819251",
+                "remoteCode": "S:5000275|P:-1|T:CON",
+                "name": "Pepsi Black No Sugar",
+                "description": "",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Pepsi Black No Sugar"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "4838255772573939190",
+                        "remoteCode": "S:610074|M:0",
+                        "name": "Large Pepsi Black No Sugar",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "12",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "10.0",
+            "totalNet": "10.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "19.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "-4744713663203627969",
+                "remoteCode": "S:5000185|P:-1|T:CON",
+                "name": "Fries",
+                "description": "KFC's Golden Fries",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Fries"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "-7960561584915465756",
+                        "remoteCode": "S:510050|M:0",
+                        "name": "Medium Fries",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "10",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "11.0",
+            "totalNet": "11.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "20.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "-4744713663203627969",
+                "remoteCode": "S:5000185|P:-1|T:CON",
+                "name": "Fries",
+                "description": "KFC's Golden Fries",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Fries"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "-5105290313979071202",
+                        "remoteCode": "S:510006|M:0",
+                        "name": "Large Fries",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "11",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "15.0",
+            "totalNet": "15.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "24.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "-4744713663203627969",
+                "remoteCode": "S:5000185|P:-1|T:CON",
+                "name": "Fries",
+                "description": "KFC's Golden Fries",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Fries"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "7198128430923508869",
+                        "remoteCode": "S:510005|M:0",
+                        "name": "Family Fries",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "15",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "11.0",
+            "totalNet": "11.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "20.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "-1176508585143022585",
+                "remoteCode": "S:5000082|P:-1|T:CON",
+                "name": "Spicy Fries",
+                "description": "",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Spicy Fries"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "5542493665178040162",
+                        "remoteCode": "S:510051|M:0",
+                        "name": "Medium Fries Spicy",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "11",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "12.0",
+            "totalNet": "12.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "21.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "-1176508585143022585",
+                "remoteCode": "S:5000082|P:-1|T:CON",
+                "name": "Spicy Fries",
+                "description": "",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Spicy Fries"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "-3757152232722920684",
+                        "remoteCode": "S:510013|M:0",
+                        "name": "Large Fries Spicy",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "12",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "17.0",
+            "totalNet": "17.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "26.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "-1176508585143022585",
+                "remoteCode": "S:5000082|P:-1|T:CON",
+                "name": "Spicy Fries",
+                "description": "",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Spicy Fries"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "7332762497456087092",
+                        "remoteCode": "S:510014|M:0",
+                        "name": "Family Fries Spicy",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "17",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "4.0",
+            "totalNet": "4.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "13.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "702032023401119836",
+                "remoteCode": "S:5000029|P:-1|T:CON",
+                "name": "Sauce",
+                "description": "",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Sauce"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "-1875966079794934885",
+                        "remoteCode": "S:810007|M:0",
+                        "name": "Gravy Sauce",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "4",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "2.0",
+            "totalNet": "2.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "11.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "702032023401119836",
+                "remoteCode": "S:5000029|P:-1|T:CON",
+                "name": "Sauce",
+                "description": "",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Sauce"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "-632918135052261308",
+                        "remoteCode": "S:810008|M:0",
+                        "name": "Tomia Sauce",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "2",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "12.0",
+            "totalNet": "12.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "21.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "6501613526325238923",
+                "remoteCode": "S:60|P:-1|T:CON",
+                "name": "Rizo",
+                "description": "KFC's special rice,chicken breast fillet, arabiata sauce or pepper chili sauce",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Rizo"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "51385671059597000",
+                        "remoteCode": "S:510009|M:0",
+                        "name": "Rizo Arabiatta",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "12",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "12.0",
+            "totalNet": "12.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "21.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "6501613526325238923",
+                "remoteCode": "S:60|P:-1|T:CON",
+                "name": "Rizo",
+                "description": "KFC's special rice,chicken breast fillet, arabiata sauce or pepper chili sauce",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Rizo"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "-2738102388278788718",
+                        "remoteCode": "S:510011|M:0",
+                        "name": "Rizo Pepper Chilli Sauce",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "12",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "10.5",
+            "totalNet": "10.5",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "19.5",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "-2247997279542480567",
+                "remoteCode": "S:27|P:-1|T:CON",
+                "name": "Pop Corn Chicken",
+                "description": "Delicious  Pop Corn Chicken",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Pop Corn Chicken"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "-7345804521988466778",
+                        "remoteCode": "S:510007|M:0",
+                        "name": "Pop Corn Small",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "10.5",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "15.0",
+            "totalNet": "15.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "24.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "-2247997279542480567",
+                "remoteCode": "S:27|P:-1|T:CON",
+                "name": "Pop Corn Chicken",
+                "description": "Delicious  Pop Corn Chicken",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Pop Corn Chicken"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "-6417428337167848185",
+                        "remoteCode": "S:510008|M:0",
+                        "name": "Pop Corn Large",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "15",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "11.0",
+            "totalNet": "11.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "20.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "-7831170505488822596",
+                "remoteCode": "S:6|P:-1|T:CON",
+                "name": "7 UP",
+                "description": "Soft Drink",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "7 UP"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "-6460852113608886177",
+                        "remoteCode": "S:600016|M:0",
+                        "name": "7Up Medium",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "11",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "12.0",
+            "totalNet": "12.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "21.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "-7831170505488822596",
+                "remoteCode": "S:6|P:-1|T:CON",
+                "name": "7 UP",
+                "description": "Soft Drink",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "7 UP"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "4563544163528558451",
+                        "remoteCode": "S:600017|M:0",
+                        "name": "7Up Large",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "12",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "9",
+            "totalNet": "9",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "18.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "1193079768796671698",
+                "remoteCode": "S:510101|P:-1|T:SMP",
+                "name": "3 Pcs Hot Lime Wings",
+                "description": "",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "3 Pcs Hot Lime Wings"
+                },
+                "unitPrice": "9",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": []
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "11.0",
+            "totalNet": "11.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "20.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "3190586791755241903",
+                "remoteCode": "S:8|P:-1|T:CON",
+                "name": "Mirinda",
+                "description": "Soft Drink",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Mirinda"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "-3198765013695980371",
+                        "remoteCode": "S:600009|M:0",
+                        "name": "Mirinda Medium",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "11",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "12.0",
+            "totalNet": "12.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "21.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "3190586791755241903",
+                "remoteCode": "S:8|P:-1|T:CON",
+                "name": "Mirinda",
+                "description": "Soft Drink",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Mirinda"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "-2768007426183598985",
+                        "remoteCode": "S:600010|M:0",
+                        "name": "Mirinda Large",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "12",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "1.5",
+            "totalNet": "1.5",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "10.5",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "4824259475269894034",
+                "remoteCode": "S:810045|P:-1|T:SMP",
+                "name": "Blazing Sauce",
+                "description": "Blazing Sauce",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Blazing Sauce"
+                },
+                "unitPrice": "1.5",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": []
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "2",
+            "totalNet": "2",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "11.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "-1044620814367105021",
+                "remoteCode": "S:810005|P:-1|T:SMP",
+                "name": "Cheddar Sauce",
+                "description": "Cheddar Sauce",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Cheddar Sauce"
+                },
+                "unitPrice": "2",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": []
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "2",
+            "totalNet": "2",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "11.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "-6766952162306533990",
+                "remoteCode": "S:816003|P:-1|T:SMP",
+                "name": "Sweet Chilli Sauce",
+                "description": "",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Sweet Chilli Sauce"
+                },
+                "unitPrice": "2",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": []
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "2",
+            "totalNet": "2",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "11.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "1966656809014852058",
+                "remoteCode": "S:810042|P:-1|T:SMP",
+                "name": "BBQ Sauce",
+                "description": "",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "BBQ Sauce"
+                },
+                "unitPrice": "2",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": []
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "2",
+            "totalNet": "2",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "11.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "5795174091998924083",
+                "remoteCode": "S:810041|P:-1|T:SMP",
+                "name": "Garlic sauce",
+                "description": "",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Garlic sauce"
+                },
+                "unitPrice": "2",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": []
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "2",
+            "totalNet": "2",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "11.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "-2845491696855607028",
+                "remoteCode": "S:810040|P:-1|T:SMP",
+                "name": "Colonel's Signature Sauce",
+                "description": "",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Colonel's Signature Sauce"
+                },
+                "unitPrice": "2",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": []
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "2",
+            "totalNet": "2",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "11.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "8167649106930221806",
+                "remoteCode": "S:810028|P:-1|T:SMP",
+                "name": "Dynamite Sauce",
+                "description": "",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Dynamite Sauce"
+                },
+                "unitPrice": "2",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": []
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "6",
+            "totalNet": "6",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "15.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "7736668476990304010",
+                "remoteCode": "S:710003|P:-1|T:SMP",
+                "name": "Cookie",
+                "description": "Cookies",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Cookie"
+                },
+                "unitPrice": "6",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": []
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "20",
+            "totalNet": "20",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "29.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "-1450546343786570322",
+                "remoteCode": "S:510030|P:-1|T:SMP",
+                "name": "Loaded Fries Family",
+                "description": "",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Loaded Fries Family"
+                },
+                "unitPrice": "20",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": []
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "9.0",
+            "totalNet": "9.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "18.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "4935124429424549419",
+                "remoteCode": "S:9|P:-1|T:CON",
+                "name": "Coleslaw",
+                "description": "KFC's signature Coleslaw",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Coleslaw"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "5414058587175115336",
+                        "remoteCode": "S:510001|M:0",
+                        "name": "Coleslaw Salad Small",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "9",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    },
+    {
+        "delivery": {
+            "address": {
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "line4": "",
+                "line5": "",
+                "street": "34th Street",
+                "number": "12",
+                "room": "",
+                "flatNumber": "123",
+                "building": "",
+                "intercom": "",
+                "entrance": "",
+                "structure": "",
+                "floor": "1",
+                "district": "",
+                "other": "",
+                "city": "Sharjah",
+                "postcode": ",",
+                "company": "",
+                "deliveryMainArea": "123,test3123",
+                "deliveryMainAreaPostcode": "",
+                "deliveryArea": "",
+                "deliveryAreaPostcode": ",",
+                "deliveryInstructions": "Other, 123",
+                "latitude": 29.3352938,
+                "longitude": 48.0715612
+            },
+            "expressDelivery": false,
+            "expectedDeliveryTime": "2023-03-17T11:37:39.561Z",
+            "riderPickupTime": null
+        },
+        "token": "VEJfQUUtMTA3OTk-_-oma_625fffa4-500d-556e-9c26-d5040e2ff424-_-eu",
+        "code": "191568",
+        "comments": {
+            "customerComment": null,
+            "vendorComment": ""
+        },
+        "createdAt": "2023-03-17T10:37:40.401Z",
+        "customer": {
+            "code": "3220616",
+            "mobilePhone": "+971507588248",
+            "firstName": "[PRT] Test",
+            "lastName": "Test",
+            "email": "",
+            "mobilePhoneCountryCode": ""
+        },
+        "discounts": [],
+        "expeditionType": "delivery",
+        "expiryDate": "2023-03-17T10:52:40.397Z",
+        "localInfo": {
+            "platform": "TALABAT",
+            "platformKey": "TB",
+            "countryCode": "AE",
+            "currencySymbol": "AED",
+            "currencySymbolPosition": "",
+            "currencySymbolSpaces": "",
+            "decimalSeparator": ".",
+            "decimalDigits": "",
+            "thousandsSeparator": "",
+            "website": "",
+            "email": "",
+            "phone": ""
+        },
+        "payment": {
+            "type": "CASH",
+            "remoteCode": "CASH",
+            "status": "pending",
+            "requiredMoneyChange": "",
+            "vatName": "",
+            "vatId": ""
+        },
+        "test": false,
+        "shortCode": "1143",
+        "preOrder": "false",
+        "platformRestaurant": {
+            "id": "10799"
+        },
+        "price": {
+            "minimumDeliveryValue": "",
+            "comission": "",
+            "deliveryFee": "9",
+            "deliveryFees": [
+                {
+                    "name": "Delivery Fee",
+                    "value": "9"
+                }
+            ],
+            "containerCharge": "",
+            "deliveryFeeDiscount": "",
+            "serviceFeePercent": "",
+            "serviceFeeTotal": "",
+            "serviceTax": "0",
+            "serviceTaxValue": "0",
+            "subTotal": "15.0",
+            "totalNet": "15.0",
+            "vatVisible": "true",
+            "vatPercent": "0",
+            "vatTotal": "0",
+            "grandTotal": "24.0",
+            "discountAmountTotal": "0",
+            "differenceToMinimumDeliveryValue": "",
+            "payRestaurant": "0",
+            "riderTip": "0"
+        },
+        "products": [
+            {
+                "id": "4935124429424549419",
+                "remoteCode": "S:9|P:-1|T:CON",
+                "name": "Coleslaw",
+                "description": "KFC's signature Coleslaw",
+                "comment": "",
+                "categoryName": null,
+                "variation": {
+                    "name": "Coleslaw"
+                },
+                "unitPrice": "0",
+                "paidPrice": "0",
+                "discountAmount": "",
+                "quantity": "1",
+                "halfHalf": false,
+                "vatPercentage": "",
+                "selectedChoices": [],
+                "selectedToppings": [
+                    {
+                        "id": "-7285255671583547537",
+                        "remoteCode": "S:510002|M:0",
+                        "name": "Coleslaw Salad Large",
+                        "quantity": 1,
+                        "children": [],
+                        "price": "15",
+                        "type": "EXTRA"
+                    }
+                ]
+            }
+        ],
+        "corporateOrder": false,
+        "mobileOrder": true,
+        "webOrder": false,
+        "vouchers": [],
+        "corporateTaxId": "",
+        "extraParameters": {
+            "chainId": "5482"
+        },
+        "__v": 0
+    }
+]

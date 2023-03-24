@@ -1,0 +1,123 @@
+{
+  "token": "1701112-_-oma_a3fcd207-8bcc-5641-bbf6-7ac37207f031-_-me-ae",
+  "code": "K-30",
+  "delivery": {
+    "address": {
+      "line1": "",
+      "line2": "",
+      "line3": "",
+      "line4": "",
+      "line5": "",
+      "street": "4 C Street",
+      "number": "Oasis residence ",
+      "room": "",
+      "flatNumber": "603",
+      "building": "",
+      "intercom": "",
+      "entrance": "",
+      "structure": "",
+      "floor": "6th floor",
+      "district": "",
+      "other": "",
+      "city": "Dubai",
+      "postcode": ",",
+      "company": "",
+      "deliveryMainArea": "556,Al Mankhool",
+      "deliveryMainAreaPostcode": "",
+      "deliveryArea": "",
+      "deliveryAreaPostcode": ",",
+      "deliveryInstructions": "Other, 603, opposite to four points by shreraton; No cutlery. ",
+      "latitude": 25.45817920557407,
+      "longitude":54.673585487723614
+    },
+    "expressDelivery": false,
+    "expectedDeliveryTime": "2023-03-10T12:29:04.347Z",
+    "riderPickupTime": null
+  },
+  "comments": {
+    "customerComment": "No cutlery. ",
+    "vendorComment": ""
+  },
+  "createdAt": "2023-03-14T11:59:04.459Z",
+  "customer": {
+    "code": "29400671",
+    "mobilePhone": "+971501253836",
+    "firstName": "neth0x0",
+    "lastName": "unknown",
+    "email": "",
+    "mobilePhoneCountryCode": ""
+  },
+  "discounts": [
+
+  ],
+  "expeditionType": "delivery",
+  "expiryDate": "2023-03-10T12:04:04.459Z",
+  "localInfo": {
+    "platform": "TALABAT",
+    "platformKey": "TB",
+    "countryCode": "AE",
+    "currencySymbol": "AED",
+    "currencySymbolPosition": "",
+    "currencySymbolSpaces": "",
+    "decimalSeparator": ".",
+    "decimalDigits": "",
+    "thousandsSeparator": "",
+    "website": "",
+    "email": "",
+    "phone": ""
+  },
+  "payment": {
+    "type": "CREDIT_CARD",
+    "remoteCode": "CREDIT_CARD",
+    "status": "paid",
+    "requiredMoneyChange": "",
+    "vatName": "",
+    "vatId": ""
+  },
+  "test": false,
+  "shortCode": "8789",
+  "preOrder": "false",
+  "platformRestaurant": {
+    "id": "8420"
+  },
+  "price": {
+    "minimumDeliveryValue": "",
+    "comission": "",
+    "deliveryFee": "9.5",
+    "deliveryFees": [
+      {
+        "name": "Delivery Fee",
+        "value": "9.5"
+      }
+    ],
+    "containerCharge": "",
+    "deliveryFeeDiscount": "",
+    "serviceFeePercent": "",
+    "serviceFeeTotal": "",
+    "serviceTax": "0",
+    "serviceTaxValue": "0",
+    "subTotal": "36",
+    "totalNet": "36",
+    "vatVisible": "true",
+    "vatPercent": "0",
+    "vatTotal": "0",
+    "grandTotal": "45.5",
+    "discountAmountTotal": "0",
+    "differenceToMinimumDeliveryValue": "",
+    "payRestaurant": "0",
+    "riderTip": "0"
+  },
+  "products": [
+
+  ],
+  "corporateOrder": false,
+  "mobileOrder": true,
+  "webOrder": false,
+  "vouchers": [
+
+  ],
+  "corporateTaxId": "",
+  "extraParameters": {
+    "chainId": "1968"
+  }
+}

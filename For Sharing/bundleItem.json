@@ -1,0 +1,233 @@
+{
+  "delivery": {
+    "address": {
+      "line1": "",
+      "line2": "",
+      "line3": "",
+      "line4": "",
+      "line5": "",
+      "street": "Yousif Al Adhmah Street",
+      "number": "000",
+      "room": "",
+      "flatNumber": "00",
+      "building": "",
+      "intercom": "",
+      "entrance": "",
+      "structure": "",
+      "floor": "00",
+      "district": "",
+      "other": "",
+      "city": "Sharjah",
+      "postcode": ",",
+      "company": "",
+      "deliveryMainArea": "123,test3123",
+      "deliveryMainAreaPostcode": "",
+      "deliveryArea": "",
+      "deliveryAreaPostcode": ",",
+      "deliveryInstructions": "Other, 00",
+      "latitude": 25.3631295062651,
+      "longitude": 55.4024597903499
+    },
+    "expressDelivery": false,
+    "expectedDeliveryTime": "2023-03-17T00:53:40.374Z",
+    "riderPickupTime": null
+  },
+  "token": "VEJfQUUtMTA3OTk-_-oma_00c5db1e-3448-53b2-bb02-c481512875c2-_-eu",
+  "code": "191445",
+  "comments": {
+    "customerComment": null,
+    "vendorComment": ""
+  },
+  "createdAt": "2023-03-16T23:53:40.708Z",
+  "customer": {
+    "code": "161",
+    "mobilePhone": "+971525361478",
+    "firstName": "Ahmed",
+    "lastName": "Naguib",
+    "email": "",
+    "mobilePhoneCountryCode": ""
+  },
+  "discounts": [
+    
+  ],
+  "expeditionType": "delivery",
+  "expiryDate": "2023-03-17T00:08:40.707Z",
+  "localInfo": {
+    "platform": "TALABAT",
+    "platformKey": "TB",
+    "countryCode": "AE",
+    "currencySymbol": "AED",
+    "currencySymbolPosition": "",
+    "currencySymbolSpaces": "",
+    "decimalSeparator": ".",
+    "decimalDigits": "",
+    "thousandsSeparator": "",
+    "website": "",
+    "email": "",
+    "phone": ""
+  },
+  "payment": {
+    "type": "CASH",
+    "remoteCode": "CASH",
+    "status": "pending",
+    "requiredMoneyChange": "",
+    "vatName": "",
+    "vatId": ""
+  },
+  "test": false,
+  "shortCode": "1141",
+  "preOrder": "false",
+  "platformRestaurant": {
+    "id": "10799"
+  },
+  "price": {
+    "minimumDeliveryValue": "",
+    "comission": "",
+    "deliveryFee": "9",
+    "deliveryFees": [
+      {
+        "name": "Delivery Fee",
+        "value": "9"
+      }
+    ],
+    "containerCharge": "",
+    "deliveryFeeDiscount": "",
+    "serviceFeePercent": "",
+    "serviceFeeTotal": "",
+    "serviceTax": "0",
+    "serviceTaxValue": "0",
+    "subTotal": "100",
+    "totalNet": "100",
+    "vatVisible": "true",
+    "vatPercent": "0",
+    "vatTotal": "0",
+    "grandTotal": "109",
+    "discountAmountTotal": "0",
+    "differenceToMinimumDeliveryValue": "",
+    "payRestaurant": "0",
+    "riderTip": "0"
+  },
+  "products": [
+    {
+      "id": "204446486",
+      "remoteCode": "S:49|P:2207|T:BDL|OP:79",
+      "name": "2 Large Pizzas for AED 79",
+      "description": "",
+      "comment": "",
+      "categoryName": null,
+      "variation": {
+        "name": "2 Large Pizzas for AED 79"
+      },
+      "unitPrice": "79",
+      "paidPrice": "79",
+      "discountAmount": "",
+      "quantity": "1",
+      "halfHalf": false,
+      "vatPercentage": "",
+      "selectedChoices": [
+        
+      ],
+      "selectedToppings": [
+        {
+          "id": "204447573",
+          "remoteCode": "S:120546|MIN:0|C:3|M:0|I:0",
+          "name": "Chicken BBQ Large Stuffed Crust",
+          "quantity": 1,
+          "children": [
+            
+          ],
+          "price": "6",
+          "type": "EXTRA"
+        },
+        {
+          "id": "204446543",
+          "remoteCode": "S:321007|MIN:0|C:4|M:0|I:0",
+          "name": "2 Large Pizzas for AED 75",
+          "quantity": 1,
+          "children": [
+            
+          ],
+          "price": "0",
+          "type": "EXTRA"
+        },
+        {
+          "id": "204446542",
+          "remoteCode": "S:99999|MIN:0|C:1|M:0|I:0",
+          "name": "Meal",
+          "quantity": 1,
+          "children": [
+            
+          ],
+          "price": "0",
+          "type": "EXTRA"
+        },
+        {
+          "id": "204446575",
+          "remoteCode": "VR:171",
+          "name": "Margherita",
+          "quantity": 1,
+          "children": [
+            
+          ],
+          "price": "0",
+          "type": "EXTRA"
+        },
+        {
+          "id": "204447431",
+          "remoteCode": "S:820060|M:1|MIN:0|I:1|C:2",
+          "name": "Mushrooms",
+          "quantity": 1,
+          "children": [
+            
+          ],
+          "price": "5.5",
+          "type": "EXTRA"
+        },
+        {
+          "id": "204447420",
+          "remoteCode": "S:120550|MIN:0|C:2|M:0|I:0",
+          "name": "Margherita Large Stuffed Crust",
+          "quantity": 1,
+          "children": [
+            
+          ],
+          "price": "6",
+          "type": "EXTRA"
+        },
+        {
+          "id": "204447422",
+          "remoteCode": "S:820033|M:1|MIN:0|I:0|C:2",
+          "name": "Cool Ranch",
+          "quantity": 1,
+          "children": [
+            
+          ],
+          "price": "3.5",
+          "type": "EXTRA"
+        },
+        {
+          "id": "204446581",
+          "remoteCode": "VR:164",
+          "name": "Chicken BBQ Supreme",
+          "quantity": 1,
+          "children": [
+            
+          ],
+          "price": "0",
+          "type": "EXTRA"
+        }
+      ]
+    }
+  ],
+  "corporateOrder": false,
+  "mobileOrder": true,
+  "webOrder": false,
+  "vouchers": [
+    
+  ],
+  "corporateTaxId": "",
+  "extraParameters": {
+    "chainId": "5482"
+  },
+  "__v": 0
+}

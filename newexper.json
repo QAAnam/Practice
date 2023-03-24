@@ -1,0 +1,33 @@
+{
+    "id": "123",
+    "name": "Example",
+    "items": [
+        {
+            "id": "456",
+            "name": "Item 1",
+            "choiceCategories": null
+        },
+        {
+            "id": "789",
+            "name": "Item 2",
+            "choiceCategories": [
+                {
+                    "id": "111",
+                    "name": "Category 1",
+                    "options": [
+                        {
+                            "id": "222",
+                            "name": "Option 1",
+                            "choiceCategories": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "321",
+            "name": "Item 3",
+            "choiceCategories": null
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+  "delivery": {
+    "address": {
+      "line1": "",
+      "line2": "",
+      "line3": "",
+      "line4": "",
+      "line5": "",
+      "street": "Hamad Al-Mubarak Street",
+      "number": "1",
+      "room": "",
+      "flatNumber": "2",
+      "building": "",
+      "intercom": "",
+      "entrance": "",
+      "structure": "",
+      "floor": "1",
+      "district": "",
+      "other": "",
+      "city": "Hawally",
+      "postcode": ",",
+      "company": "",
+      "deliveryMainArea": "294,0",
+      "deliveryMainAreaPostcode": "",
+      "deliveryArea": "Block: Block 4",
+      "deliveryAreaPostcode": ",",
+      "deliveryInstructions": "Other, 2",
+      "latitude": 29.3352938,
+      "longitude": 48.0715612
+    },
+    "expressDelivery": false,
+    "expectedDeliveryTime": "2023-03-16T13:45:40.559Z",
+    "riderPickupTime": null
+  },
+  "token": "VEJfS1ctODk5OQ-_-oma_8ce68e24-1355-5eb5-9af9-2e3060235ef8-_-eu",
+  "code": "191358",
+  "comments": {
+    "customerComment": null,
+    "vendorComment": ""
+  },
+  "createdAt": "2023-03-16T12:30:40.915Z",
+  "customer": {
+    "code": "3220616",
+    "mobilePhone": "+96552345678",
+    "firstName": "Test",
+    "lastName": "Test",
+    "email": "",
+    "mobilePhoneCountryCode": ""
+  },
+  "discounts": [
+
+  ],
+  "expeditionType": "delivery",
+  "expiryDate": "2023-03-16T12:42:40.915Z",
+  "localInfo": {
+    "platform": "TALABAT",
+    "platformKey": "TB",
+    "countryCode": "KW",
+    "currencySymbol": "KD",
+    "currencySymbolPosition": "",
+    "currencySymbolSpaces": "",
+    "decimalSeparator": ".",
+    "decimalDigits": "",
+    "thousandsSeparator": "",
+    "website": "",
+    "email": "",
+    "phone": ""
+  },
+  "payment": {
+    "type": "CASH",
+    "remoteCode": "CASH",
+    "status": "pending",
+    "requiredMoneyChange": "",
+    "vatName": "",
+    "vatId": ""
+  },
+  "test": false,
+  "shortCode": "694",
+  "preOrder": "false",
+  "platformRestaurant": {
+    "id": "8999"
+  },
+  "price": {
+    "minimumDeliveryValue": "",
+    "comission": "",
+    "deliveryFee": "0",
+    "deliveryFees": [
+
+    ],
+    "containerCharge": "",
+    "deliveryFeeDiscount": "",
+    "serviceFeePercent": "",
+    "serviceFeeTotal": "",
+    "serviceTax": "0",
+    "serviceTaxValue": "0",
+    "subTotal": "2.75",
+    "totalNet": "2.75",
+    "vatVisible": "true",
+    "vatPercent": "0",
+    "vatTotal": "0",
+    "grandTotal": "2.75",
+    "discountAmountTotal": "0",
+    "differenceToMinimumDeliveryValue": "",
+    "payRestaurant": "0",
+    "riderTip": "0"
+  },
+  "products": [
+    {
+      "id": "204587405",
+      "remoteCode": "S:12|P:-1|T:CON",
+      "name": "7 UP",
+      "description": "",
+      "comment": "",
+      "categoryName": null,
+      "variation": {
+        "name": "7 UP"
+      },
+      "unitPrice": "0",
+      "paidPrice": "0",
+      "discountAmount": "",
+      "quantity": "5",
+      "halfHalf": false,
+      "vatPercentage": "",
+      "selectedChoices": [
+
+      ],
+      "selectedToppings": [
+        {
+          "id": "204588228",
+          "remoteCode": "S:600017|M:0",
+          "name": "large 7 Up",
+          "quantity": 1,
+          "children": [
+
+          ],
+          "price": "0.55",
+          "type": "EXTRA"
+        }
+      ]
+    }
+  ],
+  "corporateOrder": false,
+  "mobileOrder": true,
+  "webOrder": false,
+  "vouchers": [
+
+  ],
+  "corporateTaxId": "",
+  "extraParameters": {
+    "chainId": "4447"
+  },
+  "__v": 0
+}

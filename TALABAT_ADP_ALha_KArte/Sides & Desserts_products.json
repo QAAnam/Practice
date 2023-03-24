@@ -1,0 +1,1003 @@
+[
+    {
+        "id": "-2732547605602554844",
+        "remoteCode": "S:810052|P:-1|T:SMP",
+        "name": "Super Charger Sauce",
+        "description": "",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Super Charger Sauce"
+        },
+        "unitPrice": "2",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": []
+    },
+    {
+        "id": "-7492221757065266985",
+        "remoteCode": "S:7|P:-1|T:CON",
+        "name": "Mountain Dew",
+        "description": "Soft Drink",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Mountain Dew"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "5598714796327442655",
+                "remoteCode": "S:600013|M:0",
+                "name": "Mountain Dew Medium",
+                "quantity": 1,
+                "children": [],
+                "price": "11",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "-7492221757065266985",
+        "remoteCode": "S:7|P:-1|T:CON",
+        "name": "Mountain Dew",
+        "description": "Soft Drink",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Mountain Dew"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "4205596459748275312",
+                "remoteCode": "S:600014|M:0",
+                "name": "Mountain Dew Large",
+                "quantity": 1,
+                "children": [],
+                "price": "12",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "2826280477367713314",
+        "remoteCode": "S:5|P:-1|T:CON",
+        "name": "Diet Pepsi",
+        "description": "Soft Drink",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Diet Pepsi"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "7096711443279530381",
+                "remoteCode": "S:600006|M:0",
+                "name": "Diet Pepsi Medium",
+                "quantity": 1,
+                "children": [],
+                "price": "11",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "2826280477367713314",
+        "remoteCode": "S:5|P:-1|T:CON",
+        "name": "Diet Pepsi",
+        "description": "Soft Drink",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Diet Pepsi"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "850604076775533898",
+                "remoteCode": "S:600007|M:0",
+                "name": "Diet Pepsi Large",
+                "quantity": 1,
+                "children": [],
+                "price": "12",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "2321346095086051508",
+        "remoteCode": "S:510092|P:-1|T:SMP",
+        "name": "3 Pc Jalapeno Cheesy Bites",
+        "description": "",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "3 Pc Jalapeno Cheesy Bites"
+        },
+        "unitPrice": "9",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": []
+    },
+    {
+        "id": "-8157180825890834591",
+        "remoteCode": "S:510074|P:-1|T:SMP",
+        "name": "Family Dipper Fries + 3 Dips",
+        "description": "",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Family Dipper Fries + 3 Dips"
+        },
+        "unitPrice": "20",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": []
+    },
+    {
+        "id": "-6584514656091233006",
+        "remoteCode": "S:1|P:-1|T:CON",
+        "name": "Pepsi",
+        "description": "Soft Drink",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Pepsi"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "-8783186582991227695",
+                "remoteCode": "S:600003|M:0",
+                "name": "Pepsi Medium",
+                "quantity": 1,
+                "children": [],
+                "price": "11",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "-6584514656091233006",
+        "remoteCode": "S:1|P:-1|T:CON",
+        "name": "Pepsi",
+        "description": "Soft Drink",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Pepsi"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "7232683327852532753",
+                "remoteCode": "S:600004|M:0",
+                "name": "Pepsi Large",
+                "quantity": 1,
+                "children": [],
+                "price": "12",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "-271293114919819251",
+        "remoteCode": "S:5000275|P:-1|T:CON",
+        "name": "Pepsi Black No Sugar",
+        "description": "",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Pepsi Black No Sugar"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "-8625223979050435863",
+                "remoteCode": "S:610073|M:0",
+                "name": "Medium Pepsi Black No Sugar",
+                "quantity": 1,
+                "children": [],
+                "price": "11",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "-271293114919819251",
+        "remoteCode": "S:5000275|P:-1|T:CON",
+        "name": "Pepsi Black No Sugar",
+        "description": "",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Pepsi Black No Sugar"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "4838255772573939190",
+                "remoteCode": "S:610074|M:0",
+                "name": "Large Pepsi Black No Sugar",
+                "quantity": 1,
+                "children": [],
+                "price": "12",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "-4744713663203627969",
+        "remoteCode": "S:5000185|P:-1|T:CON",
+        "name": "Fries",
+        "description": "KFC's Golden Fries",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Fries"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "-7960561584915465756",
+                "remoteCode": "S:510050|M:0",
+                "name": "Medium Fries",
+                "quantity": 1,
+                "children": [],
+                "price": "10",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "-4744713663203627969",
+        "remoteCode": "S:5000185|P:-1|T:CON",
+        "name": "Fries",
+        "description": "KFC's Golden Fries",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Fries"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "-5105290313979071202",
+                "remoteCode": "S:510006|M:0",
+                "name": "Large Fries",
+                "quantity": 1,
+                "children": [],
+                "price": "11",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "-4744713663203627969",
+        "remoteCode": "S:5000185|P:-1|T:CON",
+        "name": "Fries",
+        "description": "KFC's Golden Fries",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Fries"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "7198128430923508869",
+                "remoteCode": "S:510005|M:0",
+                "name": "Family Fries",
+                "quantity": 1,
+                "children": [],
+                "price": "15",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "-1176508585143022585",
+        "remoteCode": "S:5000082|P:-1|T:CON",
+        "name": "Spicy Fries",
+        "description": "",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Spicy Fries"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "5542493665178040162",
+                "remoteCode": "S:510051|M:0",
+                "name": "Medium Fries Spicy",
+                "quantity": 1,
+                "children": [],
+                "price": "11",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "-1176508585143022585",
+        "remoteCode": "S:5000082|P:-1|T:CON",
+        "name": "Spicy Fries",
+        "description": "",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Spicy Fries"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "-3757152232722920684",
+                "remoteCode": "S:510013|M:0",
+                "name": "Large Fries Spicy",
+                "quantity": 1,
+                "children": [],
+                "price": "12",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "-1176508585143022585",
+        "remoteCode": "S:5000082|P:-1|T:CON",
+        "name": "Spicy Fries",
+        "description": "",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Spicy Fries"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "7332762497456087092",
+                "remoteCode": "S:510014|M:0",
+                "name": "Family Fries Spicy",
+                "quantity": 1,
+                "children": [],
+                "price": "17",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "702032023401119836",
+        "remoteCode": "S:5000029|P:-1|T:CON",
+        "name": "Sauce",
+        "description": "",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Sauce"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "-1875966079794934885",
+                "remoteCode": "S:810007|M:0",
+                "name": "Gravy Sauce",
+                "quantity": 1,
+                "children": [],
+                "price": "4",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "702032023401119836",
+        "remoteCode": "S:5000029|P:-1|T:CON",
+        "name": "Sauce",
+        "description": "",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Sauce"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "-632918135052261308",
+                "remoteCode": "S:810008|M:0",
+                "name": "Tomia Sauce",
+                "quantity": 1,
+                "children": [],
+                "price": "2",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "6501613526325238923",
+        "remoteCode": "S:60|P:-1|T:CON",
+        "name": "Rizo",
+        "description": "KFC's special rice,chicken breast fillet, arabiata sauce or pepper chili sauce",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Rizo"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "51385671059597000",
+                "remoteCode": "S:510009|M:0",
+                "name": "Rizo Arabiatta",
+                "quantity": 1,
+                "children": [],
+                "price": "12",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "6501613526325238923",
+        "remoteCode": "S:60|P:-1|T:CON",
+        "name": "Rizo",
+        "description": "KFC's special rice,chicken breast fillet, arabiata sauce or pepper chili sauce",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Rizo"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "-2738102388278788718",
+                "remoteCode": "S:510011|M:0",
+                "name": "Rizo Pepper Chilli Sauce",
+                "quantity": 1,
+                "children": [],
+                "price": "12",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "-2247997279542480567",
+        "remoteCode": "S:27|P:-1|T:CON",
+        "name": "Pop Corn Chicken",
+        "description": "Delicious  Pop Corn Chicken",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Pop Corn Chicken"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "-7345804521988466778",
+                "remoteCode": "S:510007|M:0",
+                "name": "Pop Corn Small",
+                "quantity": 1,
+                "children": [],
+                "price": "10.5",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "-2247997279542480567",
+        "remoteCode": "S:27|P:-1|T:CON",
+        "name": "Pop Corn Chicken",
+        "description": "Delicious  Pop Corn Chicken",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Pop Corn Chicken"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "-6417428337167848185",
+                "remoteCode": "S:510008|M:0",
+                "name": "Pop Corn Large",
+                "quantity": 1,
+                "children": [],
+                "price": "15",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "-7831170505488822596",
+        "remoteCode": "S:6|P:-1|T:CON",
+        "name": "7 UP",
+        "description": "Soft Drink",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "7 UP"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "-6460852113608886177",
+                "remoteCode": "S:600016|M:0",
+                "name": "7Up Medium",
+                "quantity": 1,
+                "children": [],
+                "price": "11",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "-7831170505488822596",
+        "remoteCode": "S:6|P:-1|T:CON",
+        "name": "7 UP",
+        "description": "Soft Drink",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "7 UP"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "4563544163528558451",
+                "remoteCode": "S:600017|M:0",
+                "name": "7Up Large",
+                "quantity": 1,
+                "children": [],
+                "price": "12",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "1193079768796671698",
+        "remoteCode": "S:510101|P:-1|T:SMP",
+        "name": "3 Pcs Hot Lime Wings",
+        "description": "",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "3 Pcs Hot Lime Wings"
+        },
+        "unitPrice": "9",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": []
+    },
+    {
+        "id": "3190586791755241903",
+        "remoteCode": "S:8|P:-1|T:CON",
+        "name": "Mirinda",
+        "description": "Soft Drink",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Mirinda"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "-3198765013695980371",
+                "remoteCode": "S:600009|M:0",
+                "name": "Mirinda Medium",
+                "quantity": 1,
+                "children": [],
+                "price": "11",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "3190586791755241903",
+        "remoteCode": "S:8|P:-1|T:CON",
+        "name": "Mirinda",
+        "description": "Soft Drink",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Mirinda"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "-2768007426183598985",
+                "remoteCode": "S:600010|M:0",
+                "name": "Mirinda Large",
+                "quantity": 1,
+                "children": [],
+                "price": "12",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "4824259475269894034",
+        "remoteCode": "S:810045|P:-1|T:SMP",
+        "name": "Blazing Sauce",
+        "description": "Blazing Sauce",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Blazing Sauce"
+        },
+        "unitPrice": "1.5",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": []
+    },
+    {
+        "id": "-1044620814367105021",
+        "remoteCode": "S:810005|P:-1|T:SMP",
+        "name": "Cheddar Sauce",
+        "description": "Cheddar Sauce",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Cheddar Sauce"
+        },
+        "unitPrice": "2",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": []
+    },
+    {
+        "id": "-6766952162306533990",
+        "remoteCode": "S:816003|P:-1|T:SMP",
+        "name": "Sweet Chilli Sauce",
+        "description": "",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Sweet Chilli Sauce"
+        },
+        "unitPrice": "2",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": []
+    },
+    {
+        "id": "1966656809014852058",
+        "remoteCode": "S:810042|P:-1|T:SMP",
+        "name": "BBQ Sauce",
+        "description": "",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "BBQ Sauce"
+        },
+        "unitPrice": "2",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": []
+    },
+    {
+        "id": "5795174091998924083",
+        "remoteCode": "S:810041|P:-1|T:SMP",
+        "name": "Garlic sauce",
+        "description": "",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Garlic sauce"
+        },
+        "unitPrice": "2",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": []
+    },
+    {
+        "id": "-2845491696855607028",
+        "remoteCode": "S:810040|P:-1|T:SMP",
+        "name": "Colonel's Signature Sauce",
+        "description": "",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Colonel's Signature Sauce"
+        },
+        "unitPrice": "2",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": []
+    },
+    {
+        "id": "8167649106930221806",
+        "remoteCode": "S:810028|P:-1|T:SMP",
+        "name": "Dynamite Sauce",
+        "description": "",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Dynamite Sauce"
+        },
+        "unitPrice": "2",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": []
+    },
+    {
+        "id": "7736668476990304010",
+        "remoteCode": "S:710003|P:-1|T:SMP",
+        "name": "Cookie",
+        "description": "Cookies",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Cookie"
+        },
+        "unitPrice": "6",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": []
+    },
+    {
+        "id": "-1450546343786570322",
+        "remoteCode": "S:510030|P:-1|T:SMP",
+        "name": "Loaded Fries Family",
+        "description": "",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Loaded Fries Family"
+        },
+        "unitPrice": "20",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": []
+    },
+    {
+        "id": "4935124429424549419",
+        "remoteCode": "S:9|P:-1|T:CON",
+        "name": "Coleslaw",
+        "description": "KFC's signature Coleslaw",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Coleslaw"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "5414058587175115336",
+                "remoteCode": "S:510001|M:0",
+                "name": "Coleslaw Salad Small",
+                "quantity": 1,
+                "children": [],
+                "price": "9",
+                "type": "EXTRA"
+            }
+        ]
+    },
+    {
+        "id": "4935124429424549419",
+        "remoteCode": "S:9|P:-1|T:CON",
+        "name": "Coleslaw",
+        "description": "KFC's signature Coleslaw",
+        "comment": "",
+        "categoryName": null,
+        "variation": {
+            "name": "Coleslaw"
+        },
+        "unitPrice": "0",
+        "paidPrice": "0",
+        "discountAmount": "",
+        "quantity": "1",
+        "halfHalf": false,
+        "vatPercentage": "",
+        "selectedChoices": [],
+        "selectedToppings": [
+            {
+                "id": "-7285255671583547537",
+                "remoteCode": "S:510002|M:0",
+                "name": "Coleslaw Salad Large",
+                "quantity": 1,
+                "children": [],
+                "price": "15",
+                "type": "EXTRA"
+            }
+        ]
+    }
+]

@@ -1,0 +1,2419 @@
+{
+    "categories": [
+        {
+            "id": "741",
+            "englishName": "Deals",
+            "arabicName": "عروض",
+            "sortOrder": 0,
+            "items": [
+                {
+                    "id": "S:414|P:13100|T:BDL",
+                    "englishName": "Star Mega Deal",
+                    "arabicName": "ستارميجا ديل",
+                    "englishDescription": "2 wraptors original or spicy + 2 sandwiches from chicken fillet, santa fe or big deluxe + 1 Family skin on  + 1.25 ltr bottle",
+                    "arabicDescription": "اختر 2 رابتور عادي او حار + 2 ساندويتش بين بيج ديلوكس, سانتا فيه  او تشيكن فيليه + 1 بطاطا حجم عائلي +1.25لتر مشروب غازي",
+                    "price": 65,
+                    "isAvailable": true,
+                    "sortOrder": 0,
+                    "availableFrom": "00:00",
+                    "availableTo": "00:00",
+                    "availableDays": "0,1,2,3,4,5,6",
+                    "branchesAvailability": [],
+                    "imageURL": "https://hrdprodcmsimages.azureedge.net/hrdprodcmsimages/uae/imagestemp/414.png",
+                    "thumbnail": "https://hrdprodcmsimages.azureedge.net/hrdprodcmsimages/uae/imagestemp/414.png",
+                    "choiceCategories": [
+                        {
+                            "id": "815f84c6-ebbf-40cf-83d1-b641b7858d68",
+                            "englishName": "Star Mega Deal",
+                            "arabicName": "ستارميجا ديل",
+                            "minimumSelections": 1,
+                            "maximumSelections": 1,
+                            "sortOrder": 1,
+                            "choices": [
+                                {
+                                    "id": "S:130115|MIN:0|C:1|M:0|I:0",
+                                    "englishName": "Meal",
+                                    "arabicName": "وجبة",
+                                    "price": 0,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "bf9df718-ab4b-4d6f-8102-b19b437e434d",
+                            "englishName": "Select your first sandwich",
+                            "arabicName": "اختر ساندويتشك الأولى",
+                            "minimumSelections": 1,
+                            "maximumSelections": 1,
+                            "sortOrder": 2,
+                            "choices": [
+                                {
+                                    "id": "S:130150|MIN:0|C:2|M:0|I:0",
+                                    "englishName": " Wraptor",
+                                    "arabicName": "رابتور",
+                                    "price": 0,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": [
+                                        {
+                                            "id": "9369819f-15d0-4130-9c14-8987f8e904a9",
+                                            "englishName": "Choose Your condiments",
+                                            "arabicName": "اختر الاضافات",
+                                            "minimumSelections": 0,
+                                            "maximumSelections": 6,
+                                            "sortOrder": 0,
+                                            "choices": [
+                                                {
+                                                    "id": "S:830035!|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "No-Pepper Mayonnaise",
+                                                    "arabicName": "لا-بيبر مايونيز",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830035|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Pepper Mayonnaise",
+                                                    "arabicName": "بيبر مايونيز",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830012!|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "No-Tomato",
+                                                    "arabicName": "لا-طماطم",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830012|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Tomato",
+                                                    "arabicName": "طماطم",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830010!|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "No-Lettuce",
+                                                    "arabicName": "لا-الخس",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830010|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Lettuce",
+                                                    "arabicName": "الخس",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830009|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Pickles",
+                                                    "arabicName": "مخللات",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830002|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "American Cheese",
+                                                    "arabicName": "جبنة أمريكية",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830007|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Ketchup",
+                                                    "arabicName": "كاتشب",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830014|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Santafe Sauce",
+                                                    "arabicName": "ساننا فيه",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830004|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Swiss Cheese",
+                                                    "arabicName": "الجبن السويسرية",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830006|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Mustard",
+                                                    "arabicName": "ماسترد",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830008|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Mayonnaise",
+                                                    "arabicName": "مايونيز",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830011|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Onion",
+                                                    "arabicName": "بصل",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830016|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Mushroom Sauce",
+                                                    "arabicName": "صوص المشروم",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830032|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Chicken Fillet",
+                                                    "arabicName": "فيليه الدجاج",
+                                                    "price": 7.5,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830017|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Special Sauce",
+                                                    "arabicName": "صوص خاص",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830023|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Jalapeno Coins",
+                                                    "arabicName": "قطع الهالبينو",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830003|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Cheddar Cheese",
+                                                    "arabicName": "جبن شيدر",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:530009|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "BBQ Sauce",
+                                                    "arabicName": "باربيكيو صوص",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "S:130151|MIN:0|C:2|M:0|I:0",
+                                    "englishName": "Spicy Wraptor",
+                                    "arabicName": "رابتور سبايسي",
+                                    "price": 0,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": [
+                                        {
+                                            "id": "ab598bc3-948e-4d7e-b316-2d96c1a53696",
+                                            "englishName": "Choose Your condiments",
+                                            "arabicName": "اختر الاضافات",
+                                            "minimumSelections": 0,
+                                            "maximumSelections": 6,
+                                            "sortOrder": 0,
+                                            "choices": [
+                                                {
+                                                    "id": "S:830035!|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "No-Pepper Mayonnaise",
+                                                    "arabicName": "لا-بيبر مايونيز",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830035|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Pepper Mayonnaise",
+                                                    "arabicName": "بيبر مايونيز",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830012!|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "No-Tomato",
+                                                    "arabicName": "لا-طماطم",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830012|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Tomato",
+                                                    "arabicName": "طماطم",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830010!|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "No-Lettuce",
+                                                    "arabicName": "لا-الخس",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830010|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Lettuce",
+                                                    "arabicName": "الخس",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830009|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Pickles",
+                                                    "arabicName": "مخللات",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830002|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "American Cheese",
+                                                    "arabicName": "جبنة أمريكية",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830007|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Ketchup",
+                                                    "arabicName": "كاتشب",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830014|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Santafe Sauce",
+                                                    "arabicName": "ساننا فيه",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830004|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Swiss Cheese",
+                                                    "arabicName": "الجبن السويسرية",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830006|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Mustard",
+                                                    "arabicName": "ماسترد",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830008|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Mayonnaise",
+                                                    "arabicName": "مايونيز",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830011|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Onion",
+                                                    "arabicName": "بصل",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830016|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Mushroom Sauce",
+                                                    "arabicName": "صوص المشروم",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830032|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Chicken Fillet",
+                                                    "arabicName": "فيليه الدجاج",
+                                                    "price": 7.5,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830017|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Special Sauce",
+                                                    "arabicName": "صوص خاص",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830023|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Jalapeno Coins",
+                                                    "arabicName": "قطع الهالبينو",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830003|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "Cheddar Cheese",
+                                                    "arabicName": "جبن شيدر",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:530009|MIN:0|C:2|M:1|I:1",
+                                                    "englishName": "BBQ Sauce",
+                                                    "arabicName": "باربيكيو صوص",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "b2ba9bf2-0aeb-420a-988e-65f52810b9bc",
+                            "englishName": "Select your second sandwich",
+                            "arabicName": "اختر ساندويتشك الثانيى",
+                            "minimumSelections": 1,
+                            "maximumSelections": 1,
+                            "sortOrder": 4,
+                            "choices": [
+                                {
+                                    "id": "S:130150|MIN:0|C:3|M:0|I:0",
+                                    "englishName": " Wraptor",
+                                    "arabicName": "رابتور",
+                                    "price": 0,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": [
+                                        {
+                                            "id": "85a21876-0776-46e7-b00c-948169600145",
+                                            "englishName": "Choose Your condiments",
+                                            "arabicName": "اختر الاضافات",
+                                            "minimumSelections": 0,
+                                            "maximumSelections": 6,
+                                            "sortOrder": 0,
+                                            "choices": [
+                                                {
+                                                    "id": "S:830035!|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "No-Pepper Mayonnaise",
+                                                    "arabicName": "لا-بيبر مايونيز",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830035|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Pepper Mayonnaise",
+                                                    "arabicName": "بيبر مايونيز",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830012!|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "No-Tomato",
+                                                    "arabicName": "لا-طماطم",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830012|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Tomato",
+                                                    "arabicName": "طماطم",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830010!|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "No-Lettuce",
+                                                    "arabicName": "لا-الخس",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830010|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Lettuce",
+                                                    "arabicName": "الخس",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830009|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Pickles",
+                                                    "arabicName": "مخللات",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830002|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "American Cheese",
+                                                    "arabicName": "جبنة أمريكية",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830007|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Ketchup",
+                                                    "arabicName": "كاتشب",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830014|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Santafe Sauce",
+                                                    "arabicName": "ساننا فيه",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830004|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Swiss Cheese",
+                                                    "arabicName": "الجبن السويسرية",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830006|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Mustard",
+                                                    "arabicName": "ماسترد",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830008|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Mayonnaise",
+                                                    "arabicName": "مايونيز",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830011|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Onion",
+                                                    "arabicName": "بصل",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830016|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Mushroom Sauce",
+                                                    "arabicName": "صوص المشروم",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830032|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Chicken Fillet",
+                                                    "arabicName": "فيليه الدجاج",
+                                                    "price": 7.5,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830017|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Special Sauce",
+                                                    "arabicName": "صوص خاص",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830023|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Jalapeno Coins",
+                                                    "arabicName": "قطع الهالبينو",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830003|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Cheddar Cheese",
+                                                    "arabicName": "جبن شيدر",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:530009|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "BBQ Sauce",
+                                                    "arabicName": "باربيكيو صوص",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "S:130151|MIN:0|C:3|M:0|I:0",
+                                    "englishName": "Spicy Wraptor",
+                                    "arabicName": "رابتور سبايسي",
+                                    "price": 0,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": [
+                                        {
+                                            "id": "0a9f9bdd-5a13-4f38-ac05-1ddbbca7a194",
+                                            "englishName": "Choose Your condiments",
+                                            "arabicName": "اختر الاضافات",
+                                            "minimumSelections": 0,
+                                            "maximumSelections": 6,
+                                            "sortOrder": 0,
+                                            "choices": [
+                                                {
+                                                    "id": "S:830035!|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "No-Pepper Mayonnaise",
+                                                    "arabicName": "لا-بيبر مايونيز",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830035|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Pepper Mayonnaise",
+                                                    "arabicName": "بيبر مايونيز",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830012!|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "No-Tomato",
+                                                    "arabicName": "لا-طماطم",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830012|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Tomato",
+                                                    "arabicName": "طماطم",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830010!|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "No-Lettuce",
+                                                    "arabicName": "لا-الخس",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830010|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Lettuce",
+                                                    "arabicName": "الخس",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830009|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Pickles",
+                                                    "arabicName": "مخللات",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830002|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "American Cheese",
+                                                    "arabicName": "جبنة أمريكية",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830007|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Ketchup",
+                                                    "arabicName": "كاتشب",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830014|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Santafe Sauce",
+                                                    "arabicName": "ساننا فيه",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830004|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Swiss Cheese",
+                                                    "arabicName": "الجبن السويسرية",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830006|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Mustard",
+                                                    "arabicName": "ماسترد",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830008|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Mayonnaise",
+                                                    "arabicName": "مايونيز",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830011|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Onion",
+                                                    "arabicName": "بصل",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830016|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Mushroom Sauce",
+                                                    "arabicName": "صوص المشروم",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830032|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Chicken Fillet",
+                                                    "arabicName": "فيليه الدجاج",
+                                                    "price": 7.5,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830017|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Special Sauce",
+                                                    "arabicName": "صوص خاص",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830023|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Jalapeno Coins",
+                                                    "arabicName": "قطع الهالبينو",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830003|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "Cheddar Cheese",
+                                                    "arabicName": "جبن شيدر",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:530009|MIN:0|C:3|M:1|I:1",
+                                                    "englishName": "BBQ Sauce",
+                                                    "arabicName": "باربيكيو صوص",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "9ba19268-5182-4dc4-93d8-259be7d781ba",
+                            "englishName": "Select your third sandwich",
+                            "arabicName": "اختر ساندويتشك الأولى",
+                            "minimumSelections": 1,
+                            "maximumSelections": 1,
+                            "sortOrder": 6,
+                            "choices": [
+                                {
+                                    "id": "S:130005|MIN:0|C:4|M:0|I:0",
+                                    "englishName": "Big Deluxe Burger",
+                                    "arabicName": "بيج ديلوكس برجر",
+                                    "price": 0,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": [
+                                        {
+                                            "id": "c934bd49-4b46-41f2-99bb-0cd32913c6b6",
+                                            "englishName": "Choose Your condiments",
+                                            "arabicName": "اختر الاضافات",
+                                            "minimumSelections": 0,
+                                            "maximumSelections": 9,
+                                            "sortOrder": 0,
+                                            "choices": [
+                                                {
+                                                    "id": "S:830012!|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "No-Tomato",
+                                                    "arabicName": "لا-طماطم",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830012|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Tomato",
+                                                    "arabicName": "طماطم",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830009!|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "No-Pickles",
+                                                    "arabicName": "لا-مخللات",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830009|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Pickles",
+                                                    "arabicName": "مخللات",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830011!|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "No-Onion",
+                                                    "arabicName": "لا-بصل",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830011|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Onion",
+                                                    "arabicName": "بصل",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830008!|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "No-Mayonnaise",
+                                                    "arabicName": "لا-مايونيز",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830008|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Mayonnaise",
+                                                    "arabicName": "مايونيز",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830010!|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "No-Lettuce",
+                                                    "arabicName": "لا-الخس",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830010|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Lettuce",
+                                                    "arabicName": "الخس",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830002!|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "No-American Cheese",
+                                                    "arabicName": "لا-جبنة أمريكية",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830002|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "American Cheese",
+                                                    "arabicName": "جبنة أمريكية",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830004|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Swiss Cheese",
+                                                    "arabicName": "الجبن السويسرية",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830017|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Special Sauce",
+                                                    "arabicName": "صوص خاص",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830014|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Santafe Sauce",
+                                                    "arabicName": "ساننا فيه",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830035|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Pepper Mayonnaise",
+                                                    "arabicName": "بيبر مايونيز",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830023|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Jalapeno Coins",
+                                                    "arabicName": "قطع الهالبينو",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830016|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Mushroom Sauce",
+                                                    "arabicName": "صوص المشروم",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830003|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Cheddar Cheese",
+                                                    "arabicName": "جبن شيدر",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:530012|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Beef Patty",
+                                                    "arabicName": "قطعة لحم كبيرة",
+                                                    "price": 7,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:530009|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "BBQ Sauce",
+                                                    "arabicName": "باربيكيو صوص",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "S:130006|MIN:0|C:4|M:0|I:0",
+                                    "englishName": "Chicken Fillet",
+                                    "arabicName": "تشيكن فيليه",
+                                    "price": 0,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": [
+                                        {
+                                            "id": "ef264e51-8cbc-48a8-95c1-37609e45660e",
+                                            "englishName": "Choose Your condiments",
+                                            "arabicName": "اختر الاضافات",
+                                            "minimumSelections": 0,
+                                            "maximumSelections": 5,
+                                            "sortOrder": 0,
+                                            "choices": [
+                                                {
+                                                    "id": "S:830008!|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "No-Mayonnaise",
+                                                    "arabicName": "لا-مايونيز",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830008|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Mayonnaise",
+                                                    "arabicName": "مايونيز",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830010!|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "No-Lettuce",
+                                                    "arabicName": "لا-الخس",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830010|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Lettuce",
+                                                    "arabicName": "الخس",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830023|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Jalapeno Coins",
+                                                    "arabicName": "قطع الهالبينو",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830017|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Special Sauce",
+                                                    "arabicName": "صوص خاص",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830032|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Chicken Fillet",
+                                                    "arabicName": "فيليه الدجاج",
+                                                    "price": 7.5,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830016|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Mushroom Sauce",
+                                                    "arabicName": "صوص المشروم",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830011|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Onion",
+                                                    "arabicName": "بصل",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830003|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Cheddar Cheese",
+                                                    "arabicName": "جبن شيدر",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830035|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Pepper Mayonnaise",
+                                                    "arabicName": "بيبر مايونيز",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830014|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Santafe Sauce",
+                                                    "arabicName": "ساننا فيه",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830002|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "American Cheese",
+                                                    "arabicName": "جبنة أمريكية",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830012|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Tomato",
+                                                    "arabicName": "طماطم",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830009|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Pickles",
+                                                    "arabicName": "مخللات",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830004|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Swiss Cheese",
+                                                    "arabicName": "الجبن السويسرية",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:530009|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "BBQ Sauce",
+                                                    "arabicName": "باربيكيو صوص",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "S:130008|MIN:0|C:4|M:0|I:0",
+                                    "englishName": "Santa Fe Chicken Spicy",
+                                    "arabicName": "تشيكن سانتا فيه حار",
+                                    "price": 0,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": [
+                                        {
+                                            "id": "3a32c104-d7aa-47fd-9d6c-ef7dac8948ee",
+                                            "englishName": "Choose Your condiments",
+                                            "arabicName": "اختر الاضافات",
+                                            "minimumSelections": 0,
+                                            "maximumSelections": 6,
+                                            "sortOrder": 0,
+                                            "choices": [
+                                                {
+                                                    "id": "S:830014!|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "No-Santafe Sauce",
+                                                    "arabicName": "لا-ساننا فيه",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830014|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Santafe Sauce",
+                                                    "arabicName": "ساننا فيه",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830010!|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "No-Lettuce",
+                                                    "arabicName": "لا-الخس",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830010|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Lettuce",
+                                                    "arabicName": "الخس",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830012!|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "No-Tomato",
+                                                    "arabicName": "لا-طماطم",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830012|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Tomato",
+                                                    "arabicName": "طماطم",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830023|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Jalapeno Coins",
+                                                    "arabicName": "قطع الهالبينو",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830017|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Special Sauce",
+                                                    "arabicName": "صوص خاص",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830032|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Chicken Fillet",
+                                                    "arabicName": "فيليه الدجاج",
+                                                    "price": 7.5,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830016|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Mushroom Sauce",
+                                                    "arabicName": "صوص المشروم",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830011|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Onion",
+                                                    "arabicName": "بصل",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830008|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Mayonnaise",
+                                                    "arabicName": "مايونيز",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830003|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Cheddar Cheese",
+                                                    "arabicName": "جبن شيدر",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830035|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Pepper Mayonnaise",
+                                                    "arabicName": "بيبر مايونيز",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830002|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "American Cheese",
+                                                    "arabicName": "جبنة أمريكية",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830009|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Pickles",
+                                                    "arabicName": "مخللات",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830004|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "Swiss Cheese",
+                                                    "arabicName": "الجبن السويسرية",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:530009|MIN:0|C:4|M:1|I:1",
+                                                    "englishName": "BBQ Sauce",
+                                                    "arabicName": "باربيكيو صوص",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "088196b9-44be-41d6-b974-3ca11ad4b08d",
+                            "englishName": "Select your forth sandwich",
+                            "arabicName": "اختر ساندويتشك الثانيى",
+                            "minimumSelections": 1,
+                            "maximumSelections": 1,
+                            "sortOrder": 8,
+                            "choices": [
+                                {
+                                    "id": "S:130005|MIN:0|C:5|M:0|I:0",
+                                    "englishName": "Big Deluxe Burger",
+                                    "arabicName": "بيج ديلوكس برجر",
+                                    "price": 0,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": [
+                                        {
+                                            "id": "158c533f-f643-446d-a9c7-784d300941cd",
+                                            "englishName": "Choose Your condiments",
+                                            "arabicName": "اختر الاضافات",
+                                            "minimumSelections": 0,
+                                            "maximumSelections": 9,
+                                            "sortOrder": 0,
+                                            "choices": [
+                                                {
+                                                    "id": "S:830012!|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "No-Tomato",
+                                                    "arabicName": "لا-طماطم",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830012|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Tomato",
+                                                    "arabicName": "طماطم",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830009!|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "No-Pickles",
+                                                    "arabicName": "لا-مخللات",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830009|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Pickles",
+                                                    "arabicName": "مخللات",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830011!|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "No-Onion",
+                                                    "arabicName": "لا-بصل",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830011|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Onion",
+                                                    "arabicName": "بصل",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830008!|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "No-Mayonnaise",
+                                                    "arabicName": "لا-مايونيز",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830008|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Mayonnaise",
+                                                    "arabicName": "مايونيز",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830010!|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "No-Lettuce",
+                                                    "arabicName": "لا-الخس",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830010|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Lettuce",
+                                                    "arabicName": "الخس",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830002!|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "No-American Cheese",
+                                                    "arabicName": "لا-جبنة أمريكية",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830002|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "American Cheese",
+                                                    "arabicName": "جبنة أمريكية",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830004|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Swiss Cheese",
+                                                    "arabicName": "الجبن السويسرية",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830017|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Special Sauce",
+                                                    "arabicName": "صوص خاص",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830014|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Santafe Sauce",
+                                                    "arabicName": "ساننا فيه",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830035|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Pepper Mayonnaise",
+                                                    "arabicName": "بيبر مايونيز",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830023|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Jalapeno Coins",
+                                                    "arabicName": "قطع الهالبينو",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830016|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Mushroom Sauce",
+                                                    "arabicName": "صوص المشروم",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830003|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Cheddar Cheese",
+                                                    "arabicName": "جبن شيدر",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:530012|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Beef Patty",
+                                                    "arabicName": "قطعة لحم كبيرة",
+                                                    "price": 7,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:530009|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "BBQ Sauce",
+                                                    "arabicName": "باربيكيو صوص",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "S:130006|MIN:0|C:5|M:0|I:0",
+                                    "englishName": "Chicken Fillet",
+                                    "arabicName": "تشيكن فيليه",
+                                    "price": 0,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": [
+                                        {
+                                            "id": "f8356d39-e0a1-4c3b-b0f2-004406bfb611",
+                                            "englishName": "Choose Your condiments",
+                                            "arabicName": "اختر الاضافات",
+                                            "minimumSelections": 0,
+                                            "maximumSelections": 5,
+                                            "sortOrder": 0,
+                                            "choices": [
+                                                {
+                                                    "id": "S:830008!|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "No-Mayonnaise",
+                                                    "arabicName": "لا-مايونيز",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830008|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Mayonnaise",
+                                                    "arabicName": "مايونيز",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830010!|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "No-Lettuce",
+                                                    "arabicName": "لا-الخس",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830010|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Lettuce",
+                                                    "arabicName": "الخس",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830023|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Jalapeno Coins",
+                                                    "arabicName": "قطع الهالبينو",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830017|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Special Sauce",
+                                                    "arabicName": "صوص خاص",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830032|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Chicken Fillet",
+                                                    "arabicName": "فيليه الدجاج",
+                                                    "price": 7.5,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830016|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Mushroom Sauce",
+                                                    "arabicName": "صوص المشروم",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830011|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Onion",
+                                                    "arabicName": "بصل",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830003|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Cheddar Cheese",
+                                                    "arabicName": "جبن شيدر",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830035|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Pepper Mayonnaise",
+                                                    "arabicName": "بيبر مايونيز",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830014|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Santafe Sauce",
+                                                    "arabicName": "ساننا فيه",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830002|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "American Cheese",
+                                                    "arabicName": "جبنة أمريكية",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830012|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Tomato",
+                                                    "arabicName": "طماطم",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830009|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Pickles",
+                                                    "arabicName": "مخللات",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830004|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Swiss Cheese",
+                                                    "arabicName": "الجبن السويسرية",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:530009|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "BBQ Sauce",
+                                                    "arabicName": "باربيكيو صوص",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "S:130008|MIN:0|C:5|M:0|I:0",
+                                    "englishName": "Santa Fe Chicken Spicy",
+                                    "arabicName": "تشيكن سانتا فيه حار",
+                                    "price": 0,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": [
+                                        {
+                                            "id": "35fb7fcc-5553-4a65-ac44-882aed239a9c",
+                                            "englishName": "Choose Your condiments",
+                                            "arabicName": "اختر الاضافات",
+                                            "minimumSelections": 0,
+                                            "maximumSelections": 6,
+                                            "sortOrder": 0,
+                                            "choices": [
+                                                {
+                                                    "id": "S:830014!|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "No-Santafe Sauce",
+                                                    "arabicName": "لا-ساننا فيه",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830014|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Santafe Sauce",
+                                                    "arabicName": "ساننا فيه",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830010!|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "No-Lettuce",
+                                                    "arabicName": "لا-الخس",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830010|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Lettuce",
+                                                    "arabicName": "الخس",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830012!|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "No-Tomato",
+                                                    "arabicName": "لا-طماطم",
+                                                    "price": 0,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830012|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Tomato",
+                                                    "arabicName": "طماطم",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830023|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Jalapeno Coins",
+                                                    "arabicName": "قطع الهالبينو",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830017|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Special Sauce",
+                                                    "arabicName": "صوص خاص",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830032|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Chicken Fillet",
+                                                    "arabicName": "فيليه الدجاج",
+                                                    "price": 7.5,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830016|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Mushroom Sauce",
+                                                    "arabicName": "صوص المشروم",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830011|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Onion",
+                                                    "arabicName": "بصل",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830008|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Mayonnaise",
+                                                    "arabicName": "مايونيز",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830003|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Cheddar Cheese",
+                                                    "arabicName": "جبن شيدر",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830035|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Pepper Mayonnaise",
+                                                    "arabicName": "بيبر مايونيز",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830002|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "American Cheese",
+                                                    "arabicName": "جبنة أمريكية",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830009|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Pickles",
+                                                    "arabicName": "مخللات",
+                                                    "price": 1,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:830004|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "Swiss Cheese",
+                                                    "arabicName": "الجبن السويسرية",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                },
+                                                {
+                                                    "id": "S:530009|MIN:0|C:5|M:1|I:1",
+                                                    "englishName": "BBQ Sauce",
+                                                    "arabicName": "باربيكيو صوص",
+                                                    "price": 2,
+                                                    "isAvailable": true,
+                                                    "sortOrder": 0,
+                                                    "branchesAvailability": [],
+                                                    "choiceCategories": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "5c08d4d6-981e-4603-b48d-d859715aa4f7",
+                            "englishName": "Choice of side item",
+                            "arabicName": "إختر من طبقك الجانبي",
+                            "minimumSelections": 1,
+                            "maximumSelections": 1,
+                            "sortOrder": 10,
+                            "choices": [
+                                {
+                                    "id": "S:530205|MIN:0|C:6|M:0|I:0",
+                                    "englishName": "Family Skin Fries",
+                                    "arabicName": "بطاطس مقلي للعائلة",
+                                    "price": 0,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": []
+                                },
+                                {
+                                    "id": "S:530076|MIN:0|C:6|M:0|I:0",
+                                    "englishName": "Family Curly Fries",
+                                    "arabicName": "كيرلي فاميلي فرايز",
+                                    "price": 2,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": []
+                                },
+                                {
+                                    "id": "S:530104|MIN:0|C:6|M:0|I:0",
+                                    "englishName": "Family Spicy Skin Fries",
+                                    "arabicName": "بطاطا سبايسي سكين عائلية",
+                                    "price": 2,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": []
+                                },
+                                {
+                                    "id": "S:530105|MIN:0|C:6|M:0|I:0",
+                                    "englishName": "Family Spicy Curly Fries",
+                                    "arabicName": "كيرلي فرايز عائلي حار",
+                                    "price": 4,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4d5f4c14-4d2b-4c97-9dd1-c8ed72375940",
+                            "englishName": "Choice of Beverages",
+                            "arabicName": "الاختيار من المشروبات",
+                            "minimumSelections": 1,
+                            "maximumSelections": 1,
+                            "sortOrder": 11,
+                            "choices": [
+                                {
+                                    "id": "S:600069|MIN:0|C:7|M:0|I:0",
+                                    "englishName": "Pepsi 1.25 Litre",
+                                    "arabicName": "بيبسي 1.25 لتر",
+                                    "price": 0,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": []
+                                },
+                                {
+                                    "id": "S:600070|MIN:0|C:7|M:0|I:0",
+                                    "englishName": "Pepsi Black 1.25 Litre",
+                                    "arabicName": "بيبسى بلاك",
+                                    "price": 0,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": []
+                                },
+                                {
+                                    "id": "S:600071|MIN:0|C:7|M:0|I:0",
+                                    "englishName": "Mirinda 1.25 Litre",
+                                    "arabicName": "ميرندا 1.25 لتر",
+                                    "price": 0,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": []
+                                },
+                                {
+                                    "id": "S:600072|MIN:0|C:7|M:0|I:0",
+                                    "englishName": "Mountain Dew 1.25 Litre",
+                                    "arabicName": "ماونتن ديو 1.25 لتر",
+                                    "price": 0,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": []
+                                },
+                                {
+                                    "id": "S:600073|MIN:0|C:7|M:0|I:0",
+                                    "englishName": "7UP 1.25 Litre",
+                                    "arabicName": "سفن اب 1.25 لتر",
+                                    "price": 0,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "675c3405-c58c-4294-b812-b741f68393d6",
+                            "englishName": "Add Ons",
+                            "arabicName": "الإضافات",
+                            "minimumSelections": 1,
+                            "maximumSelections": 1,
+                            "sortOrder": 12,
+                            "choices": [
+                                {
+                                    "id": "S:830053|MIN:0|C:8|M:0|I:0",
+                                    "englishName": "No Add On",
+                                    "arabicName": "بدون اضافة",
+                                    "price": 0,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": []
+                                },
+                                {
+                                    "id": "S:130104|MIN:0|C:8|M:0|I:0",
+                                    "englishName": "Chicken sandwich",
+                                    "arabicName": "ساندوتش دجاج",
+                                    "price": 5,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": []
+                                },
+                                {
+                                    "id": "S:530059|MIN:0|C:8|M:0|I:0",
+                                    "englishName": "Cheeseburger",
+                                    "arabicName": "برجر بالجبنه",
+                                    "price": 5,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": []
+                                },
+                                {
+                                    "id": "S:530060|MIN:0|C:8|M:0|I:0",
+                                    "englishName": "Chicken Tender Sandwich Original",
+                                    "arabicName": "الدجاج تندرز ساندويتش الأصلي",
+                                    "price": 5,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": []
+                                },
+                                {
+                                    "id": "S:530061|MIN:0|C:8|M:0|I:0",
+                                    "englishName": "Chicken Tender Sandwich Spicy",
+                                    "arabicName": "الدجاج تندرز ساندويتش حار",
+                                    "price": 5,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": []
+                                },
+                                {
+                                    "id": "S:530025|MIN:0|C:8|M:0|I:0",
+                                    "englishName": "Golden chicken bites",
+                                    "arabicName": "تشيكن بايتس",
+                                    "price": 6,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": []
+                                },
+                                {
+                                    "id": "S:530057|MIN:0|C:8|M:0|I:0",
+                                    "englishName": "Chicken Tender Original 2 Pc",
+                                    "arabicName": "الدجاج تندرز الأصلي قطعتين",
+                                    "price": 6,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": []
+                                },
+                                {
+                                    "id": "S:530058|MIN:0|C:8|M:0|I:0",
+                                    "englishName": "Chicken Tender Spicy 2 Pc",
+                                    "arabicName": "الدجاج تندرز حار قطعتين",
+                                    "price": 6,
+                                    "isAvailable": true,
+                                    "sortOrder": 0,
+                                    "branchesAvailability": [],
+                                    "choiceCategories": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+]}
