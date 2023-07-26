@@ -1,0 +1,56 @@
+INTRODUCTION:
+
+This API Automation Framework(Version 1.0) is designed and implemented by Naman Ahuja using Python 3.7.0 with the purpose of making API Automation more interesting and easier to perform for everyone.
+Various utilities, with each utility having a defined purpose, have been developed and integrated in this framework for making your API Automation scripts organized,maintainable and your code non-redundant.
+
+UTILITIES:
+
+1. JSON READER UTILITY:
+    -This utility contains functions for converting a JSON payload into its equivalent python Dictionary.
+    -This utility also contains functions for converting the python Dictionary into its equivalent JSON payload
+
+2. LOGGER UTILITY:
+    -This utility generates Logs
+    -This utility stores Test Logs in a defined file that can be found under LOGS directory
+
+3. RANDOM DATA GENERATOR UTILITY:
+    -This utility is designed for generating random data(numbers,strings or alphanumerics)
+
+4. READ PROPERTIES UTILITY:
+    -This utility is used for reading PROJECT CONFIGURATIONS in config.ini
+
+5.TEST CASE IMPORTABLES UTILITY:
+    -This utility contains the import statements that will be common for all the test cases
+    -Can be customized as per project needs
+
+6.EXCEL READER UTILITY:
+    -This utility is developed to support Data Driven Testing.
+
+GENERATING REPORT:
+
+-After each test run, a report will be generated automatically under "REPORTS" directory
+-To customize the fields in the resulting report, refer to Configure_Report_Format.py file under CONFIGURATIONS folder
+-To alter the Project Name and/or Report Title in the resulting report, refer to config.ini file
+
+PROJECT CONFIGURATIONS:
+
+-All the Configurable data(like Environments,Credentials etc) should be stored in config.ini file
+-To access the data in config.ini file,use READ PROPERTIES UTILITY
+
+TEST DATA directory:
+-Store Sample request body for APIs.
+
+LIBRARIES USED:
+- Pytest--->need to be installed
+- Requests--->need to be installed
+- Json---->built-in
+- Configparser--->need to be installed
+- Random---->built-in
+- Logging---->built-in
+- Pytest-html--->need to be installed
+- Os---->built-in
+- Openpyxl--->need to be installed
+
+THE FRAMEWORK IS PORTABLE:
+-Install this project in your system and install necessary packages, and you're good to go.
+-Pe-requisite is that you should have Python installed with its path configured and you should have set PYTHONPATH System Environment variable as the path of the Project Root directory(That is, pythonProject2)
